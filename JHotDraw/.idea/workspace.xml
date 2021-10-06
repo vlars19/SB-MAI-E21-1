@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7323b854-e06e-4516-ab5a-d2cfb4c64138" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,34 +14,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="ProjectId" id="1QuXCgmh12Fdtbdqqtx5uDEJZqg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../uni/5. Semester/Cyber Physical/OPC/opcua/Class" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Maven.JHotDraw [exec:java...]">
     <configuration name="JHotDraw [exec:java...]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
@@ -116,24 +106,58 @@
       <workItem from="1568791282030" duration="604000" />
       <workItem from="1568793032552" duration="598000" />
       <workItem from="1573463433294" duration="3793000" />
+      <workItem from="1631089097721" duration="1386000" />
+      <workItem from="1631686859046" duration="3741000" />
+      <workItem from="1632302715548" duration="467000" />
+      <workItem from="1632306326456" duration="27000" />
+      <workItem from="1632903668981" duration="184000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="280" width="424" height="483" key="FileChooserDialogImpl" timestamp="1632306350651">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="743" y="280" width="424" height="483" key="FileChooserDialogImpl/0.0.1920.1044@0.0.1920.1044" timestamp="1632306350651" />
+    <state width="1874" height="275" key="GridCell.Tab.0.bottom" timestamp="1632903852308">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1874" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1632903852308" />
+    <state width="1874" height="275" key="GridCell.Tab.0.center" timestamp="1632903852308">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1874" height="275" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1632903852308" />
+    <state width="1874" height="275" key="GridCell.Tab.0.left" timestamp="1632903852307">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1874" height="275" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1632903852307" />
+    <state width="1874" height="275" key="GridCell.Tab.0.right" timestamp="1632903852308">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1874" height="275" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1632903852308" />
+    <state x="477" y="89" width="954" height="861" key="find.popup" timestamp="1631689898773">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="477" y="89" width="954" height="861" key="find.popup/0.0.1920.1044@0.0.1920.1044" timestamp="1631689898773" />
+    <state x="638" y="192" width="672" height="678" key="search.everywhere.popup" timestamp="1631689928976">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="638" y="192" width="672" height="678" key="search.everywhere.popup/0.0.1920.1044@0.0.1920.1044" timestamp="1631689928976" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
