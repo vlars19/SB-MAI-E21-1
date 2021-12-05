@@ -756,10 +756,9 @@ public class BezierPath extends ArrayList<BezierPath.Node>
         // XXX - This method works only for straight lines!
         double len = getLengthOfPath(flatness);
         double relativeLen = 0d;
-        Node v1, v2;
+        Node v1, v2, t1, t2;
         BezierPath tempPath = new BezierPath();
-        Node t1, t2;
-        tempPath.add(t1 = new Node());
+        tempPath.add(t1  = new Node());
         tempPath.add(t2 = new Node());
 
         for (int i = 0, n = size() - 1; i < n; i++) {
