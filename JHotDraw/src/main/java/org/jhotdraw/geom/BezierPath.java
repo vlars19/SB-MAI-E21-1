@@ -809,13 +809,15 @@ public class BezierPath extends ArrayList<BezierPath.Node>
      * the given Point2D.Double.
      * @return the index of the segment or -1 if no segment was hit.
      */
-    public int findSegment(Point2D.Double find, double tolerance) {
-        // XXX - This works only for straight lines!
         Node v1, v2;
-        BezierPath tempPath = new BezierPath();
         Node t1, t2;
+        
+    
+    public int segmentFinder(Point2D.Double find, double tolerance){
+        BezierPath tempPath = new BezierPath();
         tempPath.add(t1 = new Node());
         tempPath.add(t2 = new Node());
+        
 
         for (int i = 0, n = size() - 1; i < n; i++) {
             v1 = get(i);
@@ -833,6 +835,14 @@ public class BezierPath extends ArrayList<BezierPath.Node>
                 }
             }
         }
+        return 1;
+        
+    }
+    public int segmentFinder2(Point2D.Double find, double tolerance){
+        BezierPath tempPath = new BezierPath();
+        tempPath.add(t1 = new Node());
+        tempPath.add(t2 = new Node());
+    
         if (isClosed && size() > 1) {
             v1 = get(size() - 1);
             v2 = get(0);
@@ -850,6 +860,16 @@ public class BezierPath extends ArrayList<BezierPath.Node>
             }
         }
         return -1;
+    }
+
+    
+    public int findSegment(Point2D.Double find, double tolerance) {
+        // XXX - This works only for straight lines!
+        segmentFinder(find, tolerance);
+        segmentFinder2(find, tolerance);
+        return 0;
+        
+        
     }
 
     /**
